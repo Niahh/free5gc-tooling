@@ -1,2 +1,5 @@
-# free5gc-ue-loader
-A loader to populate the free5gc database of ues 
+# free5gc-tooling
+
+A collection of tool to interact with free5gc NFs/tools
+
+
